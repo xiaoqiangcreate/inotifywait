@@ -1,0 +1,35 @@
+2020-08-20 13:44:04,390 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-08-20 13:44:04,393 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-08-20 13:44:04,394 INFO daemonizing the supervisord process
+2020-08-20 13:44:04,394 INFO supervisord started with pid 21783
+2020-08-20 13:44:05,397 INFO spawned: 'qqc_one' with pid 21789
+2020-08-20 13:44:06,398 INFO success: qqc_one entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-08-20 13:48:20,177 WARN received SIGTERM indicating exit request
+2020-08-20 13:48:20,177 INFO waiting for qqc_one to die
+2020-08-20 13:48:20,179 INFO stopped: qqc_one (terminated by SIGTERM)
+2020-08-20 13:48:38,763 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-08-20 13:48:38,767 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-08-20 13:48:38,767 INFO daemonizing the supervisord process
+2020-08-20 13:48:38,768 INFO supervisord started with pid 23063
+2020-08-20 13:48:39,770 INFO spawned: 'real_time_bak' with pid 23066
+2020-08-20 13:48:40,772 INFO success: real_time_bak entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-08-20 14:13:58,005 WARN received SIGTERM indicating exit request
+2020-08-20 14:13:58,005 INFO waiting for real_time_bak to die
+2020-08-20 14:13:58,006 INFO stopped: real_time_bak (terminated by SIGTERM)
+2020-08-20 14:14:51,579 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-08-20 14:14:51,583 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-08-20 14:14:51,584 INFO daemonizing the supervisord process
+2020-08-20 14:14:51,584 INFO supervisord started with pid 32351
+2020-08-20 14:14:52,587 INFO spawned: 'real_time_bak' with pid 32354
+2020-08-20 14:14:53,588 INFO success: real_time_bak entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-08-20 18:18:31,744 WARN received SIGTERM indicating exit request
+2020-08-20 18:18:31,744 INFO waiting for real_time_bak to die
+2020-08-20 18:18:32,746 INFO stopped: real_time_bak (terminated by SIGTERM)
+2020-08-20 18:22:10,370 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-08-20 18:22:10,374 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-08-20 18:22:10,374 INFO daemonizing the supervisord process
+2020-08-20 18:22:10,375 INFO supervisord started with pid 18431
+2020-08-20 18:22:11,378 INFO spawned: 'real_time_bak' with pid 18437
+2020-08-20 18:22:12,379 INFO success: real_time_bak entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-08-21 04:59:08,461 INFO exited: real_time_bak (terminated by SIGTERM; not expected)
+2020-08-21 04:59:08,461 WARN received SIGTERM indicating exit request
